@@ -16,3 +16,8 @@ Stepper Motor Mount | 1
 Plunger Driver | 1
 Syringe Barrel Holder | 1
 Syringe Tip Holder | 1
+
+
+## Fusion 360 Model
+
+<iframe src="https://vanderbilt419.autodesk360.com/shares/public/SH56a43QTfd62c1cd968f95d6739e53b0018?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
