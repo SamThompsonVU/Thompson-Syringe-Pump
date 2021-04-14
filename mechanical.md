@@ -12,3 +12,7 @@ Item         | Quantity
 [T Nut and Bolt](https://www.mcmaster.com/47065T139/) | 1
 Syringe | 1
 Nema 17 Stepper Motor | 1
+Stepper Motor Mount | 1
+Plunger Driver | 1
+Syringe Barrel Holder | 1
+Syringe Tip Holder | 1
