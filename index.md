@@ -1,3 +1,8 @@
+- **[Home](/Thompson-Syringe-Pump/index)**
+- [Mechanical](/Thompson-Syringe-Pump/index)
+- [Electrical](/Thompson-Syringe-Pump/index)
+- [Code](/Thompson-Syringe-Pump/index)
+
 # How to build a Syringe Pump
 
 Find Mechanical page [here](/Thompson-Syringe-Pump/mechanical)
