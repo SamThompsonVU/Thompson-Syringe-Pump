@@ -1,5 +1,9 @@
 # Mechanical Assembly for Syringe Pump
 
+## Assembled Pump
+
+![Image of assembled pump](/Thompson-Syringe-Pump/Assets/Assembled-Pump.jpg)
+
 ## Bill of Materials
 
 Item         | Quantity
