@@ -5,6 +5,9 @@
 
 # How to build a Syringe Pump
 
+Specifications of this syringe pump
+
+
 Find Mechanical page [here](/Thompson-Syringe-Pump/mechanical)
 
 Find Electrical page [here](/Thompson-Syringe-Pump/electrical)
