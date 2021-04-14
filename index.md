@@ -4,5 +4,5 @@ Find Mechanical page [here](/Thompson-Syringe-Pump/mechanical)
 
 Find Electrical page [here](/Thompson-Syringe-Pump/electrical)
 
-Find Code [here[(/Thompson-Syringe-Pump/code)
+Find Code page [here](/Thompson-Syringe-Pump/code)
 
