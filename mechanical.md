@@ -1,7 +1,7 @@
 - [Home](/Thompson-Syringe-Pump/index)
-- **[Mechanical](/Thompson-Syringe-Pump/index)**
-- [Electrical](/Thompson-Syringe-Pump/index)
-- [Code](/Thompson-Syringe-Pump/index)
+- **[Mechanical](/Thompson-Syringe-Pump/mechanical)**
+- [Electrical](/Thompson-Syringe-Pump/electrical)
+- [Code](/Thompson-Syringe-Pump/code)
 
 # Mechanical Assembly for Syringe Pump
 
